@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: 400;
+  padding-bottom: .2em;
+
+}
+
+.section {
+  max-width: 800px;
+  margin:auto;
+  padding:auto;
+}
+
+#one {
+  width: auto;
+  height: 40px;
+  background-color: #e65100;
+  padding-top: 9em;
+  padding-bottom: 2em;
+}
+
+
+#two {
+  width: auto;
+  height: 40px;
+  background-color: #FFF;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+
+#three {
+  width: auto;
+  height: 40px;
+  background-color: #fafafa;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+
+#four {
+  width: auto;
+  height: 40px;
+  background-color: #212121;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+}
